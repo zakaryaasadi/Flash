@@ -1,0 +1,7 @@
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\bin\Release\Flash.exe.config
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\bin\Release\Flash.exe
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\bin\Release\Flash.pdb
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Release\Flash.Properties.Resources.resources
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Release\Flash.csproj.GenerateResource.Cache
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Release\Flash.exe
+c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Release\Flash.pdb
