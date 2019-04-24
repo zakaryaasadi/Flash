@@ -1,7 +1,6 @@
 c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\bin\Debug\Flash.exe.config
 c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\bin\Debug\Flash.exe
 c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\bin\Debug\Flash.pdb
-c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Debug\Flash.csprojResolveAssemblyReference.cache
 c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Debug\Flash.Properties.Resources.resources
 c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Debug\Flash.csproj.GenerateResource.Cache
 c:\users\zakarya\documents\visual studio 2015\Projects\Flash\Flash\obj\Debug\Flash.exe

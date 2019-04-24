@@ -121,7 +121,6 @@ namespace wScript.Controller
                 paths.Add(d.Name);
             }
 
-
             paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile));
 
 
