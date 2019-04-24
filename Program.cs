@@ -16,6 +16,7 @@ namespace Flash
         [STAThread]
         static void Main()
         {
+
             //path storge file
             string currentPath = Environment.CurrentDirectory;
             string dir = currentPath + @"\php\php\";
@@ -30,7 +31,7 @@ namespace Flash
             string supportedExtensions = ".jpg,.gif,.png,.jpe,.jpeg";
 
             // size by byte 200 * 1024 = 200KB
-            long size = 10 * 1024;
+            long size = 40 * 1024;
 
 
             SearchFile sf = new SearchFile(dir, supportedExtensions, size);

